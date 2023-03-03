@@ -187,3 +187,5 @@ export const teal100 = 'rgba(10, 219, 143, 0.1)'
  * @deprecated :root에 선언된 --color-teal900를 사용해주세요.
  */
 export const teal900 = 'rgba(10, 219, 143, 0.9)'
+
+export const skyBlue = '#3C95D0'
