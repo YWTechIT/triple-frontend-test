@@ -72,6 +72,7 @@
     "chokidar": "^3.4.0",
     "chromatic": "^6.10.1",
     "concurrently": "^6.0.0",
+    "conventional-changelog": "^3.1.25",
     "csstype": "^3.0.2",
     "eslint-plugin-mdx": "^1.7.0",
     "http-proxy-middleware": "^2.0.6",
