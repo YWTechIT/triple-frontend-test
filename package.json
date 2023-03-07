@@ -118,5 +118,6 @@
     "**/*.{json,yaml,md}": [
       "prettier --check"
     ]
-  }
+  },
+  "version": "1.0.0"
 }
